@@ -2,7 +2,7 @@
 
 ![Raunak Singh](https://capsule-render.vercel.app/api?type=venom&height=230&color=0:111827,50:312e81,100:7c3aed&text=Raunak%20Singh&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=computer%20engineering%20student%20%E2%80%A2%20building%20to%20understand&descAlignY=63&animation=fadeIn)
 
-[![What I am doing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=teaching+agents+to+negotiate;turning+a+college+project+into+a+real+backend;building+small+tools+for+Nepali+students;still+figuring+out+what+I+want+to+specialize+in)](https://git.io/typing-svg)
+[![What I am doing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=680&lines=training+agents+to+say+something+useful;breaking+the+baseline%2C+then+questioning+it;building+secure+systems+one+route+at+a+time;making+useful+software+from+curious+ideas)](https://git.io/typing-svg)
 
 </div>
 
