@@ -102,8 +102,8 @@ practice    writing clearer documentation and more useful tests
 
 <div align="center">
 
-I am still exploring where I want to specialize. For now, I am building enough
-to understand the problems properly.
+I am developing broad engineering foundations while building deeper expertise in
+intelligent systems and application security.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,50:312e81,100:7c3aed)
 
